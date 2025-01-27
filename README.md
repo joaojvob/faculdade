@@ -9,6 +9,4 @@ Terceiro Periodo: Metodos de ordenação
 Quarto Periodo: Java 
 *** 
 Quinto Periodo: Banco de dados
-# faculdade
-# faculdade
 
